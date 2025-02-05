@@ -1,0 +1,18 @@
+{
+    "1OFFICE_ACCESS_TOKEN": "Token API 1Office",
+    "1OFFICE_APINAME": "Tên API",
+    "1OFFICE_HOST": "Tên miền hệ thống 1Office",
+    "1OFFICE_CF_COUNTRY": "Tên trường tuỳ biến COUNTRY trên 1Office",
+    "1OFFICE_CF_ADDRESS_LINE_1": "Tên trường tuỳ biến ADDRESS LINE 1 trên 1Office",
+    "1OFFICE_CF_ADDRESS_LINE_2": "Tên trường tuỳ biến ADDRESS LINE 2 trên 1Office",
+    "1OFFICE_CF_CITY": "Tên trường tuỳ biến CITY trên 1Office",
+    "1OFFICE_CF_STATE": "Tên trường tuỳ biến STATE trên 1Office",
+    "1OFFICE_CF_ZIP_CODE": "Tên trường tuỳ biến ZIP CODE trên 1Office",
+    "1OFFICE_CF_ADDRESS_VERIFICATION_STATUS": "Tên trường tuỳ biến ADDRESS VERIFICATION STATUS trên 1Office",
+    "1OFFICE_CF_ORDERS_CUSTOMER_NOTES": "Tên trường tuỳ biến CUSTOMER NOTES trên 1Office",
+    "1OFFICE_CF_ORDERS_INTERNAL_NOTES": "Tên trường tuỳ biến INTERNAL NOTES trên 1Office",
+    "1OFFICE_CF_ORDERS_STATUS" : "Tên trường tuỳ biến TRẠNG THÁI ĐƠN HÀNG trên 1Office",
+    "1OFFICE_CF_ORDERS_ADDRESS_FULL" : "Tên trường tuỳ biến ADDRESS FULL trên 1Office",
+    "1OFFICE_CF_ORDERS_RATE" : "Phí Ship",
+    "1OFFICE_CF_ORDERS_TRACKING_NUMBER" : "Mã Vận Đơn"
+}
